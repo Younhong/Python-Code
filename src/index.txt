@@ -1,0 +1,129 @@
+alive : 18
+are : 17
+army : 15
+as : 21
+be : 8
+blessed : 11
+breath : 5
+but : 10, 17
+came : 8
+cannot : 16
+chose : 11
+commanded : 8
+considers : 14
+death : 18
+deep : 6
+deliver : 18
+deliverance : 16
+despite : 16
+do : 14
+does : 3
+down : 12
+dwelling : 13
+escapes : 15
+even : 21
+everything : 14
+eyes : 17
+faithful : 3
+famine : 18
+fear : 7, 17
+firm : 8, 10
+fitting : 0
+foils : 9
+forever : 10
+forms : 14
+full : 4
+gathers : 6
+generations : 10
+god : 11
+great : 15, 16
+harp : 1
+heart : 10
+hearts : 14, 20
+heaven : 12
+heavens : 5
+help : 19
+holy : 20
+horse : 16
+host : 5
+inheritance : 11
+into : 6, 6
+its : 16
+jars : 6
+joy : 2
+joyfully : 0
+justice : 4
+keep : 18
+king : 15
+let : 7, 7
+live : 13
+looks : 12
+loves : 4
+lyre : 1
+made : 5
+make : 1
+mankind : 12
+may : 21
+mouth : 5
+music : 1
+name : 20
+nation : 11
+nations : 9
+new : 2
+no : 15, 15
+o : 21
+people : 7, 11
+peoples : 9
+place : 13
+plans : 9, 10
+play : 2
+praise : 0, 1
+purposes : 9, 10
+put : 21
+puts : 6
+rejoice : 20
+rest : 21
+revere : 7
+right : 3
+righteous : 0
+righteousness : 4
+save : 16
+saved : 15
+sea : 6
+sees : 12
+shield : 19
+shout : 2
+sing : 0, 2
+size : 15
+skillfully : 2
+song : 2
+spoke : 8
+stand : 10
+starry : 5
+stood : 8
+storehouses : 6
+strength : 15, 16
+ten-stringed : 1
+their : 5
+them : 18, 18
+they : 14
+those : 17, 17
+through : 10
+thwarts : 9
+true : 3
+trust : 20
+upon : 21
+upright : 0
+us : 21
+vain : 16
+wait : 19
+warrior : 15
+watches : 13
+waters : 6
+were : 5
+whose : 11, 17
+with : 1
+word : 3, 5
+world : 7
+you : 0, 21
+your : 21
